@@ -24,8 +24,8 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/16.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/17.jpg)
 ## Verify that the role assignments function as expected for both groups
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/18.jpg)
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/19.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/0dc2747169f52fb6488bb957793eeff05deea63d/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/18.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/0dc2747169f52fb6488bb957793eeff05deea63d/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/19.jpg)
 
 # Task 2. Enabling Single Sign-On (SSO) and Multi-Factor Authentication (MFA)
 ## Enable Single Sign-On (SSO) for your Microsoft Entra ID tenant

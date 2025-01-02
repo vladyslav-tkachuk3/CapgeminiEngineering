@@ -58,4 +58,13 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/010a725e968c8e0afc1edab5af9a548888d3d96b/Task%204.%20Securing%20Sensitive%20Information%20with%20Azure%20Key%20Vault/3.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/010a725e968c8e0afc1edab5af9a548888d3d96b/Task%204.%20Securing%20Sensitive%20Information%20with%20Azure%20Key%20Vault/4.jpg)
 
+# Task 5. Creating and Assigning Basic Azure Policies
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/3.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/4.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/5.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/6.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/7.jpg)
+
 

@@ -10,6 +10,7 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/6.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/7.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/8.jpg)
+## Create two groups named Developers and Admins.
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/9.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/10.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/11.jpg)

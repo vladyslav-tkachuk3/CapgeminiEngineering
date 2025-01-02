@@ -26,12 +26,16 @@
 ## Verify that the role assignments function as expected for both groups
 
 # Task 3. Implementing Role-Based Access Control (RBAC)
+## Create a custom role named Resource Viewer with read-only permissions for a specific resource group
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/1.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/2.jpg)
+## Assign the Resource Viewer role to the Developers group created earlier
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/3.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/4.jpg)
+## Assign the built-in Contributor role to the Admins group for the same resource group
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/5.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/6.jpg)
+## Verify that members of the Developers group have only read access and members of the Admins group have full access to the resource group
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/7.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/8.jpg)
 

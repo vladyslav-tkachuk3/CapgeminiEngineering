@@ -27,6 +27,8 @@
 
 # Task 2. Enabling Single Sign-On (SSO) and Multi-Factor Authentication (MFA)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/3.jpg)
 
 
 # Task 3. Implementing Role-Based Access Control (RBAC)

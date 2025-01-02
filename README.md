@@ -26,8 +26,11 @@
 ## Verify that the role assignments function as expected for both groups
 
 # Task 2. Enabling Single Sign-On (SSO) and Multi-Factor Authentication (MFA)
+## Enable Single Sign-On (SSO) for your Microsoft Entra ID tenant
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/1.jpg)
+## Enforce Multi-Factor Authentication (MFA) for all users in the directory
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/2.jpg)
+## Configure conditional access policies to require MFA for high-risk sign-ins
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/3.jpg)
 
 

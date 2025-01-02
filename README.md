@@ -27,5 +27,12 @@
 
 # Task 3. Implementing Role-Based Access Control (RBAC)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/3.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/4.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/5.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/6.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/7.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/8.jpg)
 
 

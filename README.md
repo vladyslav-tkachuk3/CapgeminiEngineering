@@ -25,6 +25,10 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/17.jpg)
 ## Verify that the role assignments function as expected for both groups
 
+# Task 2. Enabling Single Sign-On (SSO) and Multi-Factor Authentication (MFA)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/85a1b43b439621ec480cac956e737f0888a40cd4/Task%202.%20Enabling%20Single%20Sign-On%20(SSO)%20and%20Multi-Factor%20Authentication%20(MFA)/1.jpg)
+
+
 # Task 3. Implementing Role-Based Access Control (RBAC)
 ## Create a custom role named Resource Viewer with read-only permissions for a specific resource group
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/1.jpg)

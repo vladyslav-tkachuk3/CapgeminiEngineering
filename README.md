@@ -39,4 +39,10 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/7.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/8.jpg)
 
+# Task 4. Securing Sensitive Information with Azure Key Vault
+
+![Alt text]([https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/2426beab198c1e4a7b8ec72ed6ca38c4bf443836/Task%203.%20Implementing%20Role-Based%20Access%20Control%20(RBAC)/8.jpg](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/010a725e968c8e0afc1edab5af9a548888d3d96b/Task%204.%20Securing%20Sensitive%20Information%20with%20Azure%20Key%20Vault/1.jpg))
+
+
+
 

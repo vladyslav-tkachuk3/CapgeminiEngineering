@@ -69,5 +69,4 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/6.jpg)
 ## Verify that any new resource created in the resource group without the required tag is marked as non-compliant
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/4964edc2f187c884b352a8dbd957638e1d121ee9/Task%205.%20Creating%20and%20Assigning%20Basic%20Azure%20Policies/7.jpg)
-## Review and document the compliance status of the resource group
 

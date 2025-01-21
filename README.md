@@ -70,11 +70,3 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/5/9.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/5/10.jpg)
 
-## Practical Task 6: Creating and Deploying an Azure Function to Process HTTP Requests
-
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/4/1.jpg)
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/4/2.jpg)
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/4/3.jpg)
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/4/4.jpg)
-
-

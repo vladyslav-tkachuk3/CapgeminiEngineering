@@ -2,14 +2,18 @@
 ## Use Azure Blob Storage for storing and retrieving files.
 
 ### 1. Create a new storage account in Azure.
-
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/66cc49d2af62b5eeb5636d119d499a6ce0bb0547/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/1.%20Create%20a%20new%20storage%20account%20in%20Azure/1.jpg)
-
-
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/66cc49d2af62b5eeb5636d119d499a6ce0bb0547/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/1.%20Create%20a%20new%20storage%20account%20in%20Azure/2.jpg)
 ### 2. Set up a Blob container named "my-container" with public access.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/2.%20Set%20up%20a%20Blob%20container%20named%20my-container%20with%20public%20access/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/2.%20Set%20up%20a%20Blob%20container%20named%20my-container%20with%20public%20access/2.jpg)
 ### 3. Upload a sample text file to the Blob container using the Azure portal.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/3.%20Upload%20a%20sample%20text%20file%20to%20the%20Blob%20container%20using%20Azure%20portal/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/3.%20Upload%20a%20sample%20text%20file%20to%20the%20Blob%20container%20using%20Azure%20portal/2.jpg)
 ### 4. Download the uploaded file to verify successful retrieval.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/4.%20Download%20the%20uploaded%20file%20to%20verify%20successful%20retrieval/1.jpg)
 ### 5. Use Azure Storage Explorer to manage and view blobs in your container.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/tree/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/5.%20Use%20Azure%20Storage%20Explorer%20to%20manage%20and%20view%20blobs%20in%20your%20container)
 
 ## Practical Task 2: Lifecycle Management for Blob Storage
 ## Implement lifecycle management policies to optimize storage costs.

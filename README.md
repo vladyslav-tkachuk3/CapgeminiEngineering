@@ -76,7 +76,6 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/2.%20Create%20a%20table%20named%20employee-data/1.jpg)
 ### 3. Add sample data (e.g., employee IDs, names, and roles) to the table using Azure Storage Explorer or Azure CLI.
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/3.%20Add%20sample%20data%20to%20the%20table%20using%20Azure%20Storage%20Explorer%20or%20Azure/1.jpg)
-### 2. Create a table named "employee-data".
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/3.%20Add%20sample%20data%20to%20the%20table%20using%20Azure%20Storage%20Explorer%20or%20Azure/1.jpg)
 ### 4. Query the table for specific data using filters (e.g., "Role = Developer").
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/4.%20Query%20the%20table%20for%20specific%20data%20using%20filters/1.jpg)

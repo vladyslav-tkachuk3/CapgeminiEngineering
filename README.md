@@ -2,6 +2,10 @@
 ## Use Azure Blob Storage for storing and retrieving files.
 
 ### 1. Create a new storage account in Azure.
+
+https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/007ae7618e4207318d8ce2dcc7a6ea0484b5694b/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/1.%20Create%20a%20new%20storage%20account%20in%20Azure/1.jpg
+
+
 ### 2. Set up a Blob container named "my-container" with public access.
 ### 3. Upload a sample text file to the Blob container using the Azure portal.
 ### 4. Download the uploaded file to verify successful retrieval.

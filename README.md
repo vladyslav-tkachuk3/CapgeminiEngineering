@@ -119,46 +119,46 @@ Secure Communication: Always use HTTPS to share and access SAS tokens to prevent
 
 ### 2. Set Up a Managed Identity for an Azure Virtual Machine:
 #### Create an Azure Virtual Machine (VM) with a system-assigned Managed Identity enabled.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/1.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/2.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/3.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/4.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/5.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/3.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/4.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%207.%20Implementing%20Security%20Best%20Practices%20with%20Azure%20RBAC%20and%20Managed%20Identities/2.%20Set%20Up%20a%20Managed%20Identity%20for%20an%20Azure%20Virtual%20Machine/5.jpg)
 
 ## Practical Task 8: Creating and Querying an Azure SQL Database
 ## Learn to create and query an Azure SQL Database using the Azure portal.
 ### 1. Create an Azure SQL Database named "test-db" in a new logical SQL server.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/1.%20Create%20an%20Azure%20SQL%20Database%20named%20test-db%20in%20a%20new%20logical%20SQL%20server/1.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/1.%20Create%20an%20Azure%20SQL%20Database%20named%20test-db%20in%20a%20new%20logical%20SQL%20server/2.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/1.%20Create%20an%20Azure%20SQL%20Database%20named%20test-db%20in%20a%20new%20logical%20SQL%20server/3.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/1.%20Create%20an%20Azure%20SQL%20Database%20named%20test-db%20in%20a%20new%20logical%20SQL%20server/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/1.%20Create%20an%20Azure%20SQL%20Database%20named%20test-db%20in%20a%20new%20logical%20SQL%20server/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/1.%20Create%20an%20Azure%20SQL%20Database%20named%20test-db%20in%20a%20new%20logical%20SQL%20server/3.jpg)
 ### 2. Set the pricing tier to the free tier for cost optimization.
 ### 3. Use the Query Editor in the Azure portal to create a table named "Products" with columns for ID, Name, and Price.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/3.%20Use%20the%20Query%20Editor%20in%20the%20Azure%20portal%20to%20create%20a%20table%20named%20Products%20with%20columns%20for%20ID%2C%20Name%2C%20and%20Price/1.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/3.%20Use%20the%20Query%20Editor%20in%20the%20Azure%20portal%20to%20create%20a%20table%20named%20Products%20with%20columns%20for%20ID%2C%20Name%2C%20and%20Price/1.jpg)
 ### 4. Insert a few sample records into the "Products" table using a SQL query.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/4.%20Insert%20a%20few%20sample%20records%20into%20the%20Products%20table%20using%20a%20SQL%20query/1.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/4.%20Insert%20a%20few%20sample%20records%20into%20the%20Products%20table%20using%20a%20SQL%20query/1.jpg)
 ### 5. Query the table to display all records and verify the data.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/5.%20Query%20the%20table%20to%20display%20all%20records%20and%20verify%20the%20data/1.jpg
-
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%208.%20Creating%20and%20Querying%20an%20Azure%20SQL%20Database/5.%20Query%20the%20table%20to%20display%20all%20records%20and%20verify%20the%20data/1.jpg
+)
 ## Practical Task 9: Deploying an Azure SQL Database with Automated Backup Configuration
-
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%209.%20Deploying%20an%20Azure%20SQL%20Database%20with%20Automated%20Backup%20Configuration/1.%20Create%20an%20Azure%20SQL%20Database%20in%20a%20new%20or%20existing%20resource%20group/1.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%209.%20Deploying%20an%20Azure%20SQL%20Database%20with%20Automated%20Backup%20Configuration/1.%20Create%20an%20Azure%20SQL%20Database%20in%20a%20new%20or%20existing%20resource%20group/2.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%209.%20Deploying%20an%20Azure%20SQL%20Database%20with%20Automated%20Backup%20Configuration/1.%20Create%20an%20Azure%20SQL%20Database%20in%20a%20new%20or%20existing%20resource%20group/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%209.%20Deploying%20an%20Azure%20SQL%20Database%20with%20Automated%20Backup%20Configuration/1.%20Create%20an%20Azure%20SQL%20Database%20in%20a%20new%20or%20existing%20resource%20group/2.jpg)
 
 ## Practical Task 10: Getting Started with Cosmos DB
 ## Set up and explore Cosmos DB by creating a database, managing data, querying, and testing key features like consistency and global distribution.
 
 ### 1. Create a Cosmos DB Account.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/1.%20Create%20a%20Cosmos%20DB%20Account/1.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/1.%20Create%20a%20Cosmos%20DB%20Account/2.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/1.%20Create%20a%20Cosmos%20DB%20Account/3.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/1.%20Create%20a%20Cosmos%20DB%20Account/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/1.%20Create%20a%20Cosmos%20DB%20Account/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/1.%20Create%20a%20Cosmos%20DB%20Account/3.jpg)
 ### 2. Set Up a Database and Container.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/2.%20Set%20Up%20a%20Database%20and%20Container/1.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/2.%20Set%20Up%20a%20Database%20and%20Container/1.jpg)
 ### 3. Insert Data Using Data Explorer.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/3.%20Insert%20Data%20Using%20Data%20Explorer/1.jpg
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/3.%20Insert%20Data%20Using%20Data%20Explorer/2.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/3.%20Insert%20Data%20Using%20Data%20Explorer/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/3.%20Insert%20Data%20Using%20Data%20Explorer/2.jpg)
 ### 4. Query Data in Cosmos DB.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/4.%20Query%20Data%20in%20Cosmos%20DB/4.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/4.%20Query%20Data%20in%20Cosmos%20DB/4.jpg)
 ### 5. Configure and Test Consistency Levels.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/5.%20Configure%20and%20Test%20Consistency%20Levels/1.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/5.%20Configure%20and%20Test%20Consistency%20Levels/1.jpg)
 ### 6. Enable Global Distribution and Test Replication.
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/6.%20Enable%20Global%20Distribution%20and%20Test%20Replication/1.jpg
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%2010.%20Getting%20Started%20with%20Cosmos%20DB/6.%20Enable%20Global%20Distribution%20and%20Test%20Replication/1.jpg)
+

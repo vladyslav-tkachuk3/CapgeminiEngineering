@@ -35,10 +35,17 @@
 ## Create and manage an Azure Queue to store and process messages.
 
 ### 1. Create a storage account and enable the Queue service.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/1.%20Create%20a%20storage%20account%20and%20enable%20the%20Queue%20service/1.jpg)
 ### 2. Create a queue named "task-queue."
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/2.%20Create%20a%20queue%20named%20task-queue/1.jpg)
 ### 3. Use Azure Storage Explorer or the Azure portal to add messages to the queue.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/3.%20Use%20Azure%20Storage%20Explorer%20or%20the%20Azure%20portal%20to%20add%20messages%20to%20the%20queue/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/3.%20Use%20Azure%20Storage%20Explorer%20or%20the%20Azure%20portal%20to%20add%20messages%20to%20the%20queue/2.jpg)
 ### 4. Retrieve and process messages directly using Azure Storage Explorer or the Azure portal interface.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/4.%20Retrieve%20and%20process%20messages%20directly%20using%20Azure%20Storage%20Explorer%20or%20the%20Azure%20portal%20interface/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/4.%20Retrieve%20and%20process%20messages%20directly%20using%20Azure%20Storage%20Explorer%20or%20the%20Azure%20portal%20interface/1.png)
 ### 5. Verify that processed messages are removed from the queue manually.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7e466636b6bc3f14a39ebbd1c28888c2d9f634e5/Practical%20Task%203.%20Implementing%20an%20Azure%20Queue%20for%20Message%20Storage/5.%20Verify%20that%20processed%20messages%20are%20removed%20from%20the%20queue%20manually/1.jpg)
 
 ## Practical Task 4: Configuring Azure File Share and Mounting on a Local Machine
 ## Set up and access Azure File Storage for shared file access.

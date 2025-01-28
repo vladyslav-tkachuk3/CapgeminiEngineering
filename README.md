@@ -101,9 +101,13 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/143e620334699d37039acfa7a2f5d1d578560810/Practical%20Task%206.%20Configuring%20Shared%20Access%20Signatures%20(SAS)%20for%20Secure%20Access/4.%20Repeat%20the%20process%20for%20File%2C%20Queue%2C%20and%20Table%20services%20with%20different%20permissions/4.jpg)
 
 ### 5. Analyze the security implications of SAS tokens and expiry times.
+
 Limited Permissions: SAS tokens allow fine-grained control over access permissions, reducing the risk of unauthorized access.
+
 Expiry Times: Setting expiry times ensures that access is temporary and limits the potential for misuse.
-Revoking Tokens: If a token is compromised, you can revoke it by regenerating the storage account keys.
+
+Revoking Tokens: If a token is compromised, revoke it by regenerating the storage account keys.
+
 Secure Communication: Always use HTTPS to share and access SAS tokens to prevent interception.
 ## Practical Task 7: Implementing Security Best Practices with Azure RBAC and Managed Identities
 ## Securely manage access to Azure resources and integrate services using Managed Identities.

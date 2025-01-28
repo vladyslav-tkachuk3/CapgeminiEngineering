@@ -70,10 +70,19 @@
 ## Set up and use Azure Table Storage for structured data.
 
 ### 1. Create a storage account and enable the Table service.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/1.%20Create%20a%20storage%20account%20and%20enable%20the%20Table%20service/1.jpg
+)
 ### 2. Create a table named "employee-data".
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/2.%20Create%20a%20table%20named%20employee-data/1.jpg)
 ### 3. Add sample data (e.g., employee IDs, names, and roles) to the table using Azure Storage Explorer or Azure CLI.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/3.%20Add%20sample%20data%20to%20the%20table%20using%20Azure%20Storage%20Explorer%20or%20Azure/1.jpg)
+### 2. Create a table named "employee-data".
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/3.%20Add%20sample%20data%20to%20the%20table%20using%20Azure%20Storage%20Explorer%20or%20Azure/1.jpg)
 ### 4. Query the table for specific data using filters (e.g., "Role = Developer").
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/4.%20Query%20the%20table%20for%20specific%20data%20using%20filters/1.jpg)
 ### 5. Delete specific entries from the table and verify the changes.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/871a5cd31e8e21bc2bc570a52bce3cc485f4c73e/Practical%20Task%205.%20Storing%20and%20Querying%20Data%20with%20Azure%20Table%20Storage/5.%20Delete%20specific%20entries%20from%20the%20table%20and%20verify%20the%20changes/1.jpg
+)
 
 ## Practical Task 6: Configuring Shared Access Signatures (SAS) for Secure Access
 ## Secure Azure Storage services using SAS tokens.

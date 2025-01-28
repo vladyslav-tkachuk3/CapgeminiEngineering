@@ -3,8 +3,7 @@
 
 ### 1. Create a new storage account in Azure.
 
-https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/007ae7618e4207318d8ce2dcc7a6ea0484b5694b/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/1.%20Create%20a%20new%20storage%20account%20in%20Azure/1.jpg
-
+![Alt text]([https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7597956a62122b2338d7374a80c290146b1a00ba/Task%201.%20Introduction%20to%20Microsoft%20Entra%20ID/1.jpg](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/c34e765b19751c99db955cf8ff57581fe606e494/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/1.%20Create%20a%20new%20storage%20account%20in%20Azure/1.jpg))
 
 ### 2. Set up a Blob container named "my-container" with public access.
 ### 3. Upload a sample text file to the Blob container using the Azure portal.

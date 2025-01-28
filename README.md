@@ -13,7 +13,7 @@
 ### 4. Download the uploaded file to verify successful retrieval.
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/4.%20Download%20the%20uploaded%20file%20to%20verify%20successful%20retrieval/1.jpg)
 ### 5. Use Azure Storage Explorer to manage and view blobs in your container.
-![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/tree/da076f423ce036783518da5090527fcb853875c2/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/5.%20Use%20Azure%20Storage%20Explorer%20to%20manage%20and%20view%20blobs%20in%20your%20container)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/aba03a57ee12f3eeaeafc6b40e9e22672e618db9/Practical%20Task%201.%20Upload%20and%20Retrieve%20Files%20with%20Azure%20Blob%20Storage/5.%20Use%20Azure%20Storage%20Explorer%20to%20manage%20and%20view%20blobs%20in%20your%20container/1.jpg)
 
 ## Practical Task 2: Lifecycle Management for Blob Storage
 ## Implement lifecycle management policies to optimize storage costs.

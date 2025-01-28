@@ -51,10 +51,20 @@
 ## Set up and access Azure File Storage for shared file access.
 
 ### 1. Create a storage account and set up an Azure File Share.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/1.%20Create%20a%20storage%20account%20and%20set%20up%20an%20Azure%20File%20Share/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/1.%20Create%20a%20storage%20account%20and%20set%20up%20an%20Azure%20File%20Share/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/1.%20Create%20a%20storage%20account%20and%20set%20up%20an%20Azure%20File%20Share/3.jpg)
 ### 2. Upload a file to the file share using the Azure portal.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/2.%20Upload%20a%20file%20to%20the%20file%20share%20using%20the%20Azure%20portal/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/2.%20Upload%20a%20file%20to%20the%20file%20share%20using%20the%20Azure%20portal/2.jpg)
 ### 3. Generate a connection script for Windows or Linux and use it to mount the file share on your local machine.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/3.%20Generate%20a%20connection%20script%20for%20Windows%20or%20Linux%20and%20use%20it%20to%20mount%20the%20file%20share%20on%20your%20l/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/3.%20Generate%20a%20connection%20script%20for%20Windows%20or%20Linux%20and%20use%20it%20to%20mount%20the%20file%20share%20on%20your%20l/2.jpg)
 ### 4. Verify the mounted file share and ensure it displays the uploaded file.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/4.%20Verify%20the%20mounted%20file%20share%20and%20ensure%20it%20displays%20the%20uploaded%20file/1.jpg)
 ### 5. Add another file to the file share from the local machine and confirm it reflects in Azure.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/5.%20Add%20another%20file%20to%20the%20file%20share%20from%20the%20local%20machine%20and%20confirm%20it%20reflects%20in%20Azure/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/e7617f49985190234ead5645e2b051137b06c9d9/Practical%20Task%204.%20Configuring%20Azure%20File%20Share%20and%20Mounting%20on%20a%20Local%20Machine/5.%20Add%20another%20file%20to%20the%20file%20share%20from%20the%20local%20machine%20and%20confirm%20it%20reflects%20in%20Azure/2.jpg)
 
 ## Practical Task 5: Storing and Querying Data with Azure Table Storage
 ## Set up and use Azure Table Storage for structured data.

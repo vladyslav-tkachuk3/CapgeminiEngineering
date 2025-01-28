@@ -19,10 +19,17 @@
 ## Implement lifecycle management policies to optimize storage costs.
 
 ### 1. Create a storage account and a Blob container named "lifecycle-container."
-### 2. Upload multiple files of varying sizes to the container.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/1.%20Create%20a%20storage%20account%20and%20a%20Blob%20container%20named%20lifecycle-container/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/1.%20Create%20a%20storage%20account%20and%20a%20Blob%20container%20named%20lifecycle-container/2.jpg)
+### 2. Upload multiple files of varying sizes to the container
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/2.%20Upload%20multiple%20files%20of%20varying%20sizes%20to%20the%20container/1.jpg)
 ### 3. Create a lifecycle management policy to move blobs to the Cool tier after 30 days and delete blobs older than 90 days.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/3.%20Create%20a%20lifecycle%20management%20policy%20to%20move%20blobs%20to%20the%20Cool%20tier%20after%2030%20days%20and%20delete%20blobs%20older%20than%2090%20day/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/3.%20Create%20a%20lifecycle%20management%20policy%20to%20move%20blobs%20to%20the%20Cool%20tier%20after%2030%20days%20and%20delete%20blobs%20older%20than%2090%20day/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/3.%20Create%20a%20lifecycle%20management%20policy%20to%20move%20blobs%20to%20the%20Cool%20tier%20after%2030%20days%20and%20delete%20blobs%20older%20than%2090%20day/3.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/3.%20Create%20a%20lifecycle%20management%20policy%20to%20move%20blobs%20to%20the%20Cool%20tier%20after%2030%20days%20and%20delete%20blobs%20older%20than%2090%20day/4.jpg)
 ### 4. Simulate policy execution by manually testing with different file creation timestamps.
-### 5. Verify that blobs are moved or deleted according to the policy.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/7464b839a0bcb85320379f6eaece75e3d14b9f29/Practical%20Task%202.%20Lifecycle%20Management%20for%20Blob%20Storage/4.%20Simulate%20policy%20execution%20by%20manually%20testing%20with%20different%20file%20creation%20timestamps/1.jpg)
 
 ## Practical Task 3: Implementing an Azure Queue for Message Storage
 ## Create and manage an Azure Queue to store and process messages.

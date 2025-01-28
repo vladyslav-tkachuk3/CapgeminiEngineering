@@ -1,0 +1,8 @@
+Step 5: Analyze the Security Implications of SAS Tokens and Expiry Times
+Limited Permissions: SAS tokens allow fine-grained control over access permissions, reducing the risk of unauthorized access.
+
+Expiry Times: Setting expiry times ensures that access is temporary and limits the potential for misuse.
+
+Revoking Tokens: If a token is compromised, you can revoke it by regenerating the storage account keys.
+
+Secure Communication: Always use HTTPS to share and access SAS tokens to prevent interception.

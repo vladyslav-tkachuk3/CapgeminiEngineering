@@ -17,6 +17,8 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/6dd819d4b84d6d2f20fed3d29b80669a672d72bc/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/3.%20Use%20a%20lightweight%20ACI%20instance%20to%20deploy%20the%20Docker%20container%20from%20ACR/5.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/6dd819d4b84d6d2f20fed3d29b80669a672d72bc/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/3.%20Use%20a%20lightweight%20ACI%20instance%20to%20deploy%20the%20Docker%20container%20from%20ACR/6.jpg)
 ### 4. Verify the deployment by accessing the web application via the public IP address provided by ACI.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/1f823d1f47e925bfc0fbb7d5655b1240fbc03ca0/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/4.%20Verify%20the%20deployment%20by%20accessing%20the%20web%20application%20via%20the%20public%20IP%20address/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/1f823d1f47e925bfc0fbb7d5655b1240fbc03ca0/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/4.%20Verify%20the%20deployment%20by%20accessing%20the%20web%20application%20via%20the%20public%20IP%20address/2.jpg)
 ### 5. Remove the ACI container after verifying the deployment to stop billing.
 ## Practical Task 2: Configure Environment Variables in ACI via Azure Portal
 ## Practical Task 3: Scale Out with Azure Container Instances via Azure Portal

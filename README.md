@@ -1,5 +1,6 @@
 ## Practical Task 1: Deploy a Docker Container to Azure Container Instances (ACI) via Azure Portal
 ### 1. Create a lightweight Docker image for a simple web application (e.g., a Python Flask app) with minimal dependencies to reduce resource usage.
+![Alt text]([https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/acaf97058cc1da0173f9038ff694ad818d1b55c4/1/1.jpg](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/44929520093eef81946c1dc8507b477c0bc5393f/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/1.%20Create%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/1.jpg))
 ### 2. Push the Docker image to Azure Container Registry (ACR) using a low-cost storage option.
 ### 3. Use a lightweight ACI instance (e.g., B1s) to deploy the Docker container from ACR.
 ### 4. Verify the deployment by accessing the web application via the public IP address provided by ACI.

@@ -20,6 +20,7 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/1f823d1f47e925bfc0fbb7d5655b1240fbc03ca0/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/4.%20Verify%20the%20deployment%20by%20accessing%20the%20web%20application%20via%20the%20public%20IP%20address/1.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/1f823d1f47e925bfc0fbb7d5655b1240fbc03ca0/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/4.%20Verify%20the%20deployment%20by%20accessing%20the%20web%20application%20via%20the%20public%20IP%20address/2.jpg)
 ### 5. Remove the ACI container after verifying the deployment to stop billing.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/bb2b0e40d3880ea84d1dc889525db2625c42d7e4/Practical%20Task%201.%20Deploy%20a%20Docker%20Container%20to%20Azure%20Container%20Instances%20(ACI)%20via%20Azure%20Portal/5.%20Remove%20the%20ACI%20container%20after%20verifying%20the%20deployment%20to%20stop%20billing/1.jpg)
 ## Practical Task 2: Configure Environment Variables in ACI via Azure Portal
 ## Practical Task 3: Scale Out with Azure Container Instances via Azure Portal
 ## Practical Task 4: Secure a Docker Container in ACI with Managed Identity via Azure Portal

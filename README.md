@@ -64,28 +64,83 @@
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f1fd7d11922982af79b9de534a5c59530e5dd1fb/Practical%20Task%204.%20Secure%20a%20Docker%20Container%20in%20ACI%20with%20Managed%20Identity%20via%20Azure%20Portal/2.%20Configure%20a%20Managed%20Identity%20for%20the%20ACI%20and%20securely%20access%20an%20Azure%20service/12.jpg)
 ![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f1fd7d11922982af79b9de534a5c59530e5dd1fb/Practical%20Task%204.%20Secure%20a%20Docker%20Container%20in%20ACI%20with%20Managed%20Identity%20via%20Azure%20Portal/2.%20Configure%20a%20Managed%20Identity%20for%20the%20ACI%20and%20securely%20access%20an%20Azure%20service/13.jpg)
 ### 3. Retrieve only a single secret from Azure Key Vault for testing purposes.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%204.%20Secure%20a%20Docker%20Container%20in%20ACI%20with%20Managed%20Identity%20via%20Azure%20Portal/3.%20Retrieve%20only%20a%20single%20secret%20from%20Azure%20Key%20Vault%20for%20testing%20purposes/1.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%204.%20Secure%20a%20Docker%20Container%20in%20ACI%20with%20Managed%20Identity%20via%20Azure%20Portal/3.%20Retrieve%20only%20a%20single%20secret%20from%20Azure%20Key%20Vault%20for%20testing%20purposes/2.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%204.%20Secure%20a%20Docker%20Container%20in%20ACI%20with%20Managed%20Identity%20via%20Azure%20Portal/3.%20Retrieve%20only%20a%20single%20secret%20from%20Azure%20Key%20Vault%20for%20testing%20purposes/3.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%204.%20Secure%20a%20Docker%20Container%20in%20ACI%20with%20Managed%20Identity%20via%20Azure%20Portal/3.%20Retrieve%20only%20a%20single%20secret%20from%20Azure%20Key%20Vault%20for%20testing%20purposes/4.jpg
+)
 ### 4. Remove the ACI container after verifying secure access.
 ## Practical Task 5: Deploy a Kubernetes Cluster with AKS via Azure Portal
 ### 1. Create an Azure Kubernetes Service (AKS) cluster with the smallest VM size (e.g., B2s) and the minimum number of nodes (e.g., 1–2).
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/1.%20Create%20an%20Azure%20Kubernetes%20Service%20(AKS)%20cluster%20with%20the%20smallest%20VM%20size/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/1.%20Create%20an%20Azure%20Kubernetes%20Service%20(AKS)%20cluster%20with%20the%20smallest%20VM%20size/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/1.%20Create%20an%20Azure%20Kubernetes%20Service%20(AKS)%20cluster%20with%20the%20smallest%20VM%20size/3.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/1.%20Create%20an%20Azure%20Kubernetes%20Service%20(AKS)%20cluster%20with%20the%20smallest%20VM%20size/4.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/1.%20Create%20an%20Azure%20Kubernetes%20Service%20(AKS)%20cluster%20with%20the%20smallest%20VM%20size/5.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/1.%20Create%20an%20Azure%20Kubernetes%20Service%20(AKS)%20cluster%20with%20the%20smallest%20VM%20size/6.jpg)
 ### 2. Connect to the AKS cluster using Azure Cloud Shell with kubectl.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/2.%20Connect%20to%20the%20AKS%20cluster%20using%20Azure%20Cloud%20Shell%20with%20kubectl/1.jpg)
 ### 3.Deploy a lightweight Nginx application for verification.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/3.%20Deploy%20a%20lightweight%20Nginx%20application%20for%20verification/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/3.%20Deploy%20a%20lightweight%20Nginx%20application%20for%20verification/2.jpg)
 ### 4. Delete the AKS cluster immediately after testing to avoid additional VM and cluster costs.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%205.%20Deploy%20a%20Kubernetes%20Cluster%20with%20AKS%20via%20Azure%20Portal/4.%20Delete%20the%20AKS%20cluster%20immediately%20after%20testing%20to%20avoid%20additional%20VM%20and%20cluster%20costs/1.jpg
+)
 ## Practical Task 6: Deploy a Containerized Application on AKS
 ### 1. Build a lightweight Docker image for a simple web application (e.g., a Node.js app with minimal dependencies) and push it to Azure Container Registry (ACR).
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/1.%20Build%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/1.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/1.%20Build%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/2.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/1.%20Build%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/3.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/1.%20Build%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/4.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/1.%20Build%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/5.jpg
+)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/1.%20Build%20a%20lightweight%20Docker%20image%20for%20a%20simple%20web%20application/6.jpg
+)
 ### 2. Reuse the AKS cluster from Task 5 to deploy the application using a Kubernetes deployment and service manifest file.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/2.%20Reuse%20the%20AKS%20cluster%20from%20Task%205%20to%20deploy%20the%20application%20using%20a%20Kubernetes%20deployment%20and%20service%20manifest%20file/1.jpg)
 ### 3. Test the application for a limited time and remove the deployment afterward
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%206.%20Deploy%20a%20Containerized%20Application%20on%20AKS/3.%20Test%20the%20application%20for%20a%20limited%20time%20and%20remove%20the%20deployment%20afterward/2.jpg)
 ## Practical Task 7: Configure and Use ConfigMaps and Secrets in AKS
 ### 1. Create a ConfigMap to store non-sensitive configuration data with only the required key-value pairs for the application.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/1.%20Create%20a%20ConfigMap%20to%20store%20non-sensitive%20configuration%20data/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/1.%20Create%20a%20ConfigMap%20to%20store%20non-sensitive%20configuration%20data/2.jpg)
 ### 2. Create a Kubernetes Secret to store sensitive data (e.g., API keys) with the least amount of information needed.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/2.%20Create%20a%20Kubernetes%20Secret%20to%20store%20sensitive%20data/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/2.%20Create%20a%20Kubernetes%20Secret%20to%20store%20sensitive%20data/2.jpg)
 ### 3. Update the application deployment to use the ConfigMap and Secret.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/3.%20Update%20the%20application%20deployment%20to%20use%20the%20ConfigMap%20and%20Secret/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/3.%20Update%20the%20application%20deployment%20to%20use%20the%20ConfigMap%20and%20Secret/2.jpg)
 ### 4. Remove the ConfigMap, Secret, and deployment after testing.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%207.%20Configure%20and%20Use%20ConfigMaps%20and%20Secrets%20in%20AKS/4.%20Remove%20the%20ConfigMap%2C%20Secret%2C%20and%20deployment%20after%20testing/1.jpg)
 ## Practical Task 8: Scale Applications in AKS
 ### 1. Deploy a stateless application to the AKS cluster using minimal resource specifications.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/1.%20Deploy%20a%20stateless%20application%20to%20the%20AKS%20cluster%20using%20minimal%20resource%20specifications/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/1.%20Deploy%20a%20stateless%20application%20to%20the%20AKS%20cluster%20using%20minimal%20resource%20specifications/2.jpg)
 ### 2. Use the kubectl scale command to manually scale the application to only 2–3 replicas for testing.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/2.%20Use%20the%20kubectl%20scale%20command%20to%20manually%20scale%20the%20application%20to%20only%202%E2%80%933%20replicas%20for%20testing/1.jpg)
 ### 3. Set up Horizontal Pod Autoscaler (HPA) with reasonable CPU usage thresholds to minimize pod creation.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/3.%20Set%20up%20Horizontal%20Pod%20Autoscaler%20(HPA)%20with%20reasonable%20CPU%20usage%20thresholds%20to%20minimize%20pod%20creation/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/3.%20Set%20up%20Horizontal%20Pod%20Autoscaler%20(HPA)%20with%20reasonable%20CPU%20usage%20thresholds%20to%20minimize%20pod%20creation/2.jpg)
 ### 4. Simulate load on the application for a short duration and remove the deployment after observing the scaling behavior.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/4.%20Simulate%20load%20on%20the%20application%20for%20a%20short%20duration%20and%20remove%20the%20deployment%20after%20observing%20the%20scaling%20behavior/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/4.%20Simulate%20load%20on%20the%20application%20for%20a%20short%20duration%20and%20remove%20the%20deployment%20after%20observing%20the%20scaling%20behavior/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%208.%20Scale%20Applications%20in%20AKS/4.%20Simulate%20load%20on%20the%20application%20for%20a%20short%20duration%20and%20remove%20the%20deployment%20after%20observing%20the%20scaling%20behavior/3.jpg)
 ## Practical Task 9: Rolling Update of an Application in AKS
 ### 1. Deploy a lightweight version of your application to the AKS cluster.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/1.%20Deploy%20a%20lightweight%20version%20of%20your%20application%20to%20the%20AKS%20cluster/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/1.%20Deploy%20a%20lightweight%20version%20of%20your%20application%20to%20the%20AKS%20cluster/2.jpg)
 ### 2. Update the Docker image to a new version with minimal changes (e.g., color change).
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/2.%20Update%20the%20Docker%20image%20to%20a%20new%20version%20with%20minimal%20changes/1.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/2.%20Update%20the%20Docker%20image%20to%20a%20new%20version%20with%20minimal%20changes/2.jpg)
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/2.%20Update%20the%20Docker%20image%20to%20a%20new%20version%20with%20minimal%20changes/3.jpg)
 ### 3. Perform a rolling update using kubectl set image with minimal replicas to reduce resource usage.
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/3.%20Perform%20a%20rolling%20update%20using%20kubectl%20set%20image%20with%20minimal%20replicas%20to%20reduce%20resource%20usage/1.jpg)
 ### 4. Verify the update process quickly and remove the deployment after the update
+![Alt text](https://github.com/vladyslav-tkachuk3/CapgeminiEngineering/blob/f334bd75d5566e2778adb3328c9bb3a35b17095a/Practical%20Task%209.%20Rolling%20Update%20of%20an%20Application%20in%20AKS/4.%20Verify%20the%20update%20process%20quickly%20and%20remove%20the%20deployment%20after%20the%20update/1.jpg)
